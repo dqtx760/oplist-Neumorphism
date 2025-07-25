@@ -1,11 +1,22 @@
 # 这个一个针对openlist美化的代码仓库
+世人所谓前端美化者，大抵不过拾前人牙慧，执油彩而涂抹，虽得一时之鲜妍，然而版本迭代，顷刻便如"黄粱一梦"，徒留"代码冢"耳。
 
-## Preview（[原文地址](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)）
-<img src="https://gitee.com/da-qiang-classmate/typora/raw/9bfc396365851d9f87c28226e2b05a52c8277ac9/image/ShotEasy.png" alt="ShotEasy" width="300">
+此间却有一异类——不事枚举，不屑雕琢，偏生豢养一"色目人"（注：动态监视器），日夜逡巡于DOM之林。每逢带"色"之徒，便施以"易容术"。纵使AList"换皮"如翻书，这厮亦能"以不变应万变"，端的是一副"变色龙"的嘴脸。
 
-## 设置-全局
+向来"补丁匠"们见之，先是"愕然"，继而"恍然"，末了竟生出几分"我辈枉自雕肝镂肾"的慨叹来。
 
-自定义头部
+——所谓"整容"，竟成了"[活体移植](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)"，岂非咄咄怪事？
+
+## 效果如下
+
+![备用方案](https://cdnv2.ruguoapp.com/FvU4aZaInUkmkieAplYR8VrxxcPYv3.png)
+
+
+
+## 使用方法
+
+- **自定义头部**
+（在后台设置-全局，找到自定义头部）
 
 ```XML
 <style type="text/css">
@@ -105,7 +116,7 @@ body::before {
 </style>
 ```
 
-自定义内容
+- **自定义内容**
 
 ```XML
 <div id="customize" style="">
