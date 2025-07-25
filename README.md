@@ -3,9 +3,7 @@
 
 此间却有一异类——不事枚举，不屑雕琢，偏生豢养一"色目人"（注：动态监视器），日夜逡巡于DOM之林。每逢带"色"之徒，便施以"易容术"。纵使AList"换皮"如翻书，这厮亦能"以不变应万变"，端的是一副"变色龙"的嘴脸。
 
-向来"补丁匠"们见之，先是"愕然"，继而"恍然"，末了竟生出几分"我辈枉自雕肝镂肾"的慨叹来。
-
-——所谓"整容"，竟成了"[活体移植](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)"，岂非咄咄怪事？
+向来"补丁匠"们见之，先是"愕然"，继而"恍然"，末了竟生出几分"[我辈枉自雕肝镂肾](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)"的慨叹来。
 
 ## 效果如下
 
