@@ -1,4 +1,7 @@
-# oplist-Neumorphism
+# 这个一个针对openlist美化的代码仓库
+
+## Preview
+https://gitee.com/da-qiang-classmate/typora/raw/9bfc396365851d9f87c28226e2b05a52c8277ac9/image/ShotEasy.png
 
 ## 设置-全局
 
