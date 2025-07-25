@@ -1,8 +1,7 @@
 # 这个一个针对openlist美化的代码仓库
 
 ## Preview（[原文地址](https://xodnytdcaw.feishu.cn/wiki/LXNDw3bCLiwpOdktmnOcV9mincc?fromScene=spaceOverview)）
-![我的图片](https://gitee.com/da-qiang-classmate/typora/raw/9bfc396365851d9f87c28226e2b05a52c8277ac9/image/ShotEasy.png "可选标题，鼠标悬停时显示")
-
+<img src="https://gitee.com/da-qiang-classmate/typora/raw/9bfc396365851d9f87c28226e2b05a52c8277ac9/image/ShotEasy.png" alt="ShotEasy" width="300">
 
 ## 设置-全局
 
